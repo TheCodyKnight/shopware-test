@@ -1,3 +1,5 @@
+hello world!
+
 {block name="frontend_index_start"}{/block}
 {block name="frontend_index_doctype"}
 <!DOCTYPE html>
